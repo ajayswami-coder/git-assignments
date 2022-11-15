@@ -1,0 +1,4 @@
+Hi
+
+I am the content of output.txt file 
+Thank You
